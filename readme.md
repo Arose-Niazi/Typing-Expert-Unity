@@ -1,4 +1,4 @@
-Typing Expert
+# Typing Expert
 
 # Concepts used
 
@@ -9,7 +9,7 @@ Typing Expert
     - Render Modes
 
 - Scene Change
-- Game Pausing (Tiem Stoping)
+- Game Pausing (Time Stoping)
 
 
 # Game Play
